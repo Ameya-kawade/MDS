@@ -711,27 +711,27 @@ video {
 }
 
 .bg-IUCCA-1 {
-  background-image: url('../images/IUCCA.jpg');
+  background-image: url('./images/IUCCA.jpg');
 }
 
 .bg-Meraki-saloon {
-  background-image: url('../images/Meraki saloon.jpg');
+  background-image: url('./images/Meraki saloon.jpg');
 }
 
 .bg-aboutussection {
-  background-image: url('../mdswebsitebackgroundimages/About-us.jpg');
+  background-image: url('./mdswebsitebackgroundimages/About-us.jpg');
 }
 
 .bg-lush-bg {
-  background-image: url('../images/lush decor.jpg');
+  background-image: url('./images/lush decor.jpg');
 }
 
 .bg-service-bg {
-  background-image: url('../mdswebsitebackgroundimages/services.jpg');
+  background-image: url('./mdswebsitebackgroundimages/services.jpg');
 }
 
 .bg-Stationary {
-  background-image: url('../images/IUCAA Cover - 2017 18 - Revd - Opt 4.jpg');
+  background-image: url('./images/IUCAA Cover - 2017 18 - Revd - Opt 4.jpg');
 }
 
 .bg-cover {
